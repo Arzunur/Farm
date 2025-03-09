@@ -46,3 +46,6 @@ Oyun Mekanikleri ve Özellikler 👩🏻‍🌾
 - Buton tabanlı UI elemanları ile sağlanmıştır.
 - Tarla ve bina yerleştirme işlemleri, grid tabanlı bir yapı ile düzenlenmiştir.
 - Her hücre (boş, dolu, ekin, bina vb.) dinamik olarak takip edilerek sistemin işleyişi sağlanmıştır.
+- Mekanikler, mobil cihazlara uyumlu olacak şekilde tasarlanmıştır.
+- Farklı ekran boyutlarına ve çözünürlüklerine uyum sağlayacak şekilde tasarlanmıştır.
+
