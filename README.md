@@ -22,7 +22,7 @@ Oyun Mekanikleri ve Özellikler 👩🏻‍🌾
 🖱️ Sürükle & Bırak ile Kolay Yerleştirme 
 - Oyuncular, seçtikleri nesneleri oyun alanına kolayca sürükleyip bırakarak yerleştirebilirler.
 
-🌱 Hızlandırılmış Bitki Büyüme Simülasyonu:
+🌱 Hızlandırılmış Bitki Büyüme Simülasyonu
 - Bitkilerin büyüme süreci, büyüme aşamalarını gösteren değişen görsellerle görsel olarak temsil edilir.
 - Her bitki türünün kendine özgü özellikleri (büyüme hızı) vardır.
   
@@ -36,6 +36,7 @@ Oyun Mekanikleri ve Özellikler 👩🏻‍🌾
 
 🛠️ Kullanılan Teknolojiler
 🎮 Unity: Oyunun temel motoru olarak kullanılmıştır.
+
 💻 C#: Oyunun tüm mantıksal işlemleri ve mekanikleri C# programlama dili ile yazılmıştır.
 
 🏗️ Sistem Mimarisi
