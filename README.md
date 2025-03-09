@@ -14,7 +14,7 @@ Oyun Mekanikleri ve Özellikler 👩🏻‍🌾
 - Oyuncular, grid tabanlı araziye binalar inşa edebilir.
 - Farklı tarzlarda binalar ve çeşitli bitki türleri arasından seçim yapabilirler.
 - Geçerli/geçersiz alanlar, yerleştirme sırasında yeşil/kırmızı renklerle gösterilir.
-- 
+  
   ![Image](https://github.com/user-attachments/assets/590aa62f-1fbb-4b7b-a628-d54fa8d85b26)
   
   ![Image](https://github.com/user-attachments/assets/c52f6908-d63d-432c-971c-821f65abf36f)
@@ -25,7 +25,7 @@ Oyun Mekanikleri ve Özellikler 👩🏻‍🌾
 🌱 Hızlandırılmış Bitki Büyüme Simülasyonu:
 - Bitkilerin büyüme süreci, büyüme aşamalarını gösteren değişen görsellerle görsel olarak temsil edilir.
 - Her bitki türünün kendine özgü özellikleri (büyüme hızı) vardır.
-- 
+  
   ![Image](https://github.com/user-attachments/assets/4d239a6a-d2b2-4dfe-8741-5ae9195ae762)
   
   ![Image](https://github.com/user-attachments/assets/dd7fe9dc-6f8d-4b13-97db-ef2ec12c8da5)
